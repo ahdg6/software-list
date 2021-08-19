@@ -13,7 +13,7 @@
   * [硬件相关](#硬件相关) | [数据恢复](#数据恢复) | [备份](#备份)
   * [编辑器/IDE](#编辑器) | [开发者工具](#开发者工具) | [远程必备](#远程必备)
   * [游戏平台](#游戏平台) | [游戏工具](#游戏工具)
-  * [流媒体播放](#视频播放器--图像浏览器--音频播放器) | [流媒体录制&处理](媒体录制--处理) | [3D](#3D) // 截屏，录屏，模型都在这
+  * [媒体播放](#视频播放器--图像浏览器--音频播放器) | [媒体录制&处理](#视频处理--图像处理--音频处理) | [3D](#3D) // 截屏，录屏，模型都在这
   * [创作](#创作) | [加密](#加密)
   * [有趣但我没用过](#一些有趣但本人未曾使用过的东西) | [整活](#优质软件bushi)
 
@@ -219,7 +219,9 @@
 - [Foobar2000](https//www.foobar2000.org/) - Windows版的免费音频播放器，支持各种音频格式，并且有很多很酷的特色功能。 [Freeware][Freeware Icon]
 - [Winamp](http://www.winamp.com/) - 能播放MP3，MP2，WAV，VOCAls和MIDI文件的音乐播放器。 ![Freeware][Freeware Icon]
 
-### 媒体录制 & 处理
+### 视频处理 & 图像处理 & 音频处理
+
+#### 视频录制 & 处理
 
 - [OBS Studio](https://obsproject.com/) - 免费开源的视频录制和流媒体播放软件。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
 - [ScreenToGif](http://www.screentogif.com/) - 它允许你录制屏幕的一部分区域并保存为 gif 或视频。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
@@ -228,7 +230,7 @@
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - DirectShow过滤器，VFW / ACM 编解码器和工具的集合。
 - [HandBrake](http://handbrake.fr/) - 一个拥有良好界面的高性能视频编码和转换工具。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 
-### 图片截取 & 处理
+#### 图片截取 & 处理
 
 - [ShareX](https://getsharex.com/)- 让您使用单个键获取任何选定区域的截图或屏幕录像。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
 - [Snipaste](https://zh.snipaste.com/) 一款高效率功能全面的截图软件。
@@ -238,7 +240,7 @@
 - [Krita](https://krita.org/) - 有一堆很酷的功能的免费绘图软件。
 - [Paint.net](http://www.getpaint.net/index.html) - 简易版本的Photoshop。 ![Freeware][Freeware Icon]
 
-### 音频处理
+#### 音频处理
 
 - [Audacity](http://audacityteam.org/) - 免费，开放的资源，用于录制和编辑音频的跨平台软件。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [AudioNodes](https://audionodes.com/) - 模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等。 ![Freeware][Freeware Icon]
@@ -254,6 +256,7 @@
 - [达芬奇](https://www.blackmagicdesign.com/cn/products/davinciresolve/) - 视频编辑。
 - [Nosub](https://github.com/patui/Nosub) - 字幕处理软件。
 - [LMMS](https://lmms.io/) - 音乐创作。
+- [SiYuan](https://b3log.org/siyuan/) - 笔记整理。
 
 ### 加密
 
