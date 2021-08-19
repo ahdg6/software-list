@@ -159,6 +159,8 @@
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Neovim](https://neovim.io/) - vim真正的继任者。
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
+- [SiYuan](https://b3log.org/siyuan/) - 笔记整理。
+- [VNote](https://github.com/vnotex/vnote) - MarkDown 编辑器。
 
 
 ### 开发者工具
@@ -256,7 +258,6 @@
 - [达芬奇](https://www.blackmagicdesign.com/cn/products/davinciresolve/) - 视频编辑。
 - [Nosub](https://github.com/patui/Nosub) - 字幕处理软件。
 - [LMMS](https://lmms.io/) - 音乐创作。
-- [SiYuan](https://b3log.org/siyuan/) - 笔记整理。
 
 ### 加密
 
