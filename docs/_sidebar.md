@@ -1,3 +1,5 @@
 - [导言](README.md)
 - [老文档](backup.md)
-- [开发者工具](developer.md)
+- [开发者工具](./developer/developer.md)
+- [笔记](./writer/笔记)
+- [论坛](./self-host/论坛)
