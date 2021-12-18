@@ -1,25 +1,11 @@
 {
   "name": "software-list",
-  "version": "1.0.0",
-  "description": "> 个人自用软件推荐",
-  "main": "index.js",
-  "directories": {
-    "doc": "doc"
-  },
+  "description": "A colletion for any possiple contents.",
+  "license": "AGPL-3.0",
   "scripts": {
-    "serve": "docsify serve ./docs"
+    "start": "docsify serve ./docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ahdg6/software-list.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ahdg6/software-list/issues"
-  },
-  "homepage": "https://github.com/ahdg6/software-list#readme",
-  "dependencies": {
-    "docsify-darklight-theme": "^3.2.0"
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
   }
 }
