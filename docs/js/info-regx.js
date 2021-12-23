@@ -27,7 +27,7 @@ window.emojify = function(match, $1) {
   let a = $1.split('_')
   if (Action.hasOwnProperty(a[0])) {
     return '<img src="https://img.shields.io' +
-         Action[a[0]] + a[1].replace('0', '-') + '/' + a[2].replace('0', '-') + '?label='
+         Action[a[0]] + a[1].replace('010', '-') + '/' + a[2].replace('010', '-') + '?label='
          + (Word.hasOwnProperty(a[3]) !== false ? Word[a[3]] : a[3])
          + '&logo=' + a[4] + '&style=flat-square" />'
         ;

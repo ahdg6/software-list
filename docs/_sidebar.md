@@ -3,3 +3,4 @@
 - [开发者工具](./developer/developer.md)
 - [笔记](./writer/笔记)
 - [论坛](./self-host/论坛)
+- [安卓](./安卓)
