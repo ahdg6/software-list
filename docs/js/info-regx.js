@@ -4,6 +4,7 @@ const reletype = {
   'FREE': '☘️免费_green',
   'CS': '⭕闭源_red',
   'PREM': '💸付费_red',
+  'FPREM': '🔻免费付费混合_orange',
   'HOST': '✨自托管_blue',
 }
 
